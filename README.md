@@ -6,7 +6,7 @@ Exemplo: sudo usermod -a -G www-data rikarudoaranha
 
 Pode ser preciso relogar para que as permissões passem a funcionar.
 
-Após subir o container, acessar o terminal do mesmo e rodar os comandosi abaixo para instalar as dependências:
+Após subir o container, acessar o terminal do mesmo e rodar os comandos abaixo para instalar as dependências:
 $ composer install
 
 Depois, rodar os comandos abaixo para iniciar o projeto:
